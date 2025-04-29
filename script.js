@@ -34,3 +34,5 @@ document.addEventListener('DOMContentLoaded', function(){
      document.body.classList.toggle('alto-contraste');
      })
      });
+
+     ScrollReveal().reveal('#inicio', {delay: 500});
